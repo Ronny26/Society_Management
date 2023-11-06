@@ -1,0 +1,1 @@
+This Project is developed using java spring-boot. The project demonstrates a society management website for anon society, with multiple functionalities including renting properties, selling properties etc.# Society_Management
